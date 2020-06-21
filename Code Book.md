@@ -1,9 +1,9 @@
-Code book
+# Code book
 
-This is the code book for tidy data set
-Variables Description
+# This is the code book for tidy data set
+# Variables Description
 
-Data read from project data files. For description of each data files, refer to README in the project folder.
+# Data read from project data files. For description of each data files, refer to README in the project folder.
 
 feature_list - features.txt file
 
